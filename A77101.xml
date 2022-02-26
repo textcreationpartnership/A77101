@@ -1,0 +1,577 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postliminia Caroli II. The palingenesy, or, Second-birth, of Charles the Second to his kingly life; upon the day of first, May 29. By Abiel Borfet, M.A.</title>
+            <author>Borfet, Abiel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77101</idno>
+            <idno type="STC">Wing B3765</idno>
+            <idno type="STC">Thomason E1027_10</idno>
+            <idno type="STC">ESTC R208875</idno>
+            <idno type="EEBO-CITATION">99867793</idno>
+            <idno type="PROQUEST">99867793</idno>
+            <idno type="VID">168876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168876)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1027[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Postliminia Caroli II. The palingenesy, or, Second-birth, of Charles the Second to his kingly life; upon the day of first, May 29. By Abiel Borfet, M.A.</title>
+                  <author>Borfet, Abiel.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for M. Wright at the Kings-head in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "June 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+               <term>Restorations, Political --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168876:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>POSTLIMINIA <hi>CAROLI</hi> II. THE PALINGENESY, OR, SECOND-BIRTH, OF CHARLES the Second to his Kingly Life; Upon the day of his Firſt, <hi>May</hi> 29.</p>
+            <p>By <hi>Abiel Borfet,</hi>M. A.</p>
+            <figure>
+               <figDesc>crown</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>M. Wright</hi> at the <hi>Kings-head</hi> in the <hi>Old-Baily,</hi> 1660. <add>June 8.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:168876:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:168876:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>POSTLIMINIA <hi>CAROLI</hi> II.</head>
+            <lg>
+               <l>THat I, whom <hi>Nature</hi> never made a Poet,</l>
+               <l>Nor was adopted once by Art unto it,</l>
+               <l>Soare above Proſe, and force my Novice-Quill</l>
+               <l>To uncouth Laws againſt <hi>Minervaes</hi> will:</l>
+               <l>It is no marvell, when my <hi>Subject's</hi> ſuch,</l>
+               <l>That <hi>Art</hi> and <hi>Nature</hi> can't do half ſo much;</l>
+               <l>My <hi>Matter</hi> is my <hi>Muſe,</hi> I find it here</l>
+               <l>More eaſie task to write then to forbear.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Fear</hi> made the dumb man <hi>ſpeak,</hi> ſeeing the King</l>
+               <l>Ready to <hi>periſh.</hi> Wonder not if I ſing,</l>
+               <l>Though doubly tongue-tied; ſeeing him <hi>renate:</hi>
+               </l>
+               <l>Since <hi>fear</hi> contracteth, but <hi>joy</hi> doth dilate.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Indignation</hi> made a verſe before</l>
+               <l>Upon the <hi>Rump,</hi> and laſht it or'e and or'e;</l>
+               <l>Shall the <hi>Prieſt</hi> only, not the <hi>Poet</hi> ſhed</l>
+               <l>Some oyle of <hi>gladneſs</hi> on the ſacred <hi>Head?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No, though among thoſe <hi>Stars,</hi> which did appear</l>
+               <l>At his renew'd <hi>Nativity</hi> this year,</l>
+               <l>
+                  <pb n="2" facs="tcp:168876:3"/>
+                  <!-- PDF PAGE 15 -->
+The true <hi>Platonick,</hi> when the Sphears are rowl'd</l>
+               <l>Back to the <hi>Loyall</hi> points they kept of old;</l>
+               <l>Although among thoſe <hi>Stars,</hi> whoſe glorious train</l>
+               <l>Was in <hi>conjunction</hi> with <hi>Charles</hi> his Wain,</l>
+               <l>This be an <hi>half-mixt Meteor;</hi> yet give us</l>
+               <l>Leave to bring forth our <hi>Ignis Fatuu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+               </l>
+               <l>A <hi>Pageant</hi> to the ſhew: About a King</l>
+               <l>
+                  <hi>Fools</hi> have an office; why not this I bring?</l>
+               <l>His enterance, though contriv'd with coſtly <hi>Art,</hi>
+               </l>
+               <l>Denying not the <hi>Morrice-Dance</hi> a part;</l>
+               <l>And, while the <hi>Canons</hi> of the Towre do roare,</l>
+               <l>Accepting <hi>Muskets</hi> of a leſſer bore.</l>
+            </lg>
+            <lg>
+               <l>We can't <hi>augment</hi> the Glory of that day</l>
+               <l>By this; yet thus <hi>Remember</hi> it we may:</l>
+               <l>Our <hi>Torch</hi> may loſe its own, not give a <hi>light</hi>
+               </l>
+               <l>Unto the <hi>Sun:</hi> but, when he's gone at <hi>night,</hi>
+               </l>
+               <l>May <hi>repreſent</hi> him; this commends my Theme,</l>
+               <l>Its the Dayes <hi>ſight</hi> repeated in a <hi>Dream.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But that I doubt, whether a Dream can tell</l>
+               <l>An Hiſtory, that's ſo <hi>Incredible;</hi>
+               </l>
+               <l>That <hi>Sight</hi> might paſſe for <hi>one,</hi> and make men think</l>
+               <l>Their <hi>riſing early</hi> on that Day did bring't.</l>
+               <l>For like thoſe <hi>Perſians,</hi> which contended who</l>
+               <l>Should ſee the <hi>Sun</hi> firſt at his <hi>riſing;</hi> ſo</l>
+               <l>We haſted to this ſight, before the <hi>ſhine</hi>
+               </l>
+               <l>Of <hi>Charles</hi> his <hi>Phoſphorus</hi> proclaim'd the <hi>Signe.</hi>
+               </l>
+               <l>Some take the <hi>Vigils;</hi> ſome till <hi>Day</hi> defer,</l>
+               <l>Thinking the <hi>Night</hi> too little to prepare:</l>
+               <l>And will next day ſo much the longer lie,</l>
+               <l>When they have ſeen <hi>our ſleeps ſecurity.</hi>
+               </l>
+               <l>How many now can ſay, that they have ſeen</l>
+               <l>The <hi>Sun</hi> to <hi>riſe?</hi> which falſe <hi>before</hi> had been.</l>
+               <l>
+                  <pb n="3" facs="tcp:168876:3"/>
+                  <!-- PDF PAGE 15 -->
+The <hi>Virgins</hi> early walks ſufficient were</l>
+               <l>To baniſh the <hi>green ſickneſs</hi> for a year:</l>
+               <l>Old men were up, who meant not elſe to riſe</l>
+               <l>Untill the <hi>Reſurrection</hi> ope'd their eyes.</l>
+            </lg>
+            <lg>
+               <l>When other times I overtake and met</l>
+               <l>So many <hi>various faces</hi> in the ſtreet;</l>
+               <l>
+                  <hi>I</hi> think within my ſelf, that each Mans <hi>End</hi>
+               </l>
+               <l>Is no leſſe <hi>divers,</hi> which he doth intend?</l>
+               <l>But by a <hi>common Phyſiognomy,</hi>
+               </l>
+               <l>I <hi>there</hi> diſcern'd <hi>one ſenſe</hi> in every <hi>Eye;</hi>
+               </l>
+               <l>An happy foretaſt of our <hi>union,</hi>
+               </l>
+               <l>When <hi>multitudes</hi> thus loſe themſelves in <hi>One.</hi>
+               </l>
+               <l>Such multitudes within and out; that then</l>
+               <l>The ſtreets ſeem'd pav'd, the Houſes built with <hi>Men;</hi>
+               </l>
+               <l>The firſt I view'd, I though a <hi>Limners</hi> ſhop</l>
+               <l>
+                  <hi>Faced</hi> with lively <hi>Pictures</hi> to the top;</l>
+               <l>And wonder'd the <hi>Exchange,</hi> through which I paſt,</l>
+               <l>Was on the <hi>Southern</hi> ſide of <hi>Cornhill</hi> caſt:</l>
+               <l>It was a <hi>Frollick</hi> at my ſecond view,</l>
+               <l>Which all the <hi>Houſhold</hi> at the <hi>Windows</hi> threw.</l>
+               <l>For not an houſe appear'd, which was not <hi>ſet</hi>
+               </l>
+               <l>So thick; the <hi>King</hi> might think his <hi>Kindomes</hi> met,</l>
+               <l>And that to ſhow their <hi>Loyalty</hi> is true,</l>
+               <l>They had turn'd inſide outſide to his view.</l>
+            </lg>
+            <lg>
+               <l>Bleſt <hi>Prince!</hi> whoſe Glory in great <hi>Numbers</hi> ſtands,</l>
+               <l>That rather <hi>court</hi> then <hi>ſuffer</hi> his commands.</l>
+               <l>
+                  <hi>More</hi> bleſſed <hi>Land!</hi> under that greater Soul,</l>
+               <l>Worthy to rule the <hi>Sphear</hi> from Pole to Pole.</l>
+               <l>How were we <hi>preſt,</hi> and like the Scaffolds <hi>built</hi>
+               </l>
+               <l>On one anothers backs? yet never felt</l>
+               <l>The <hi>weight</hi> with our <hi>light</hi> hearts: O let the King</l>
+               <l>Still ſuch <hi>oppreſſions,</hi> and ſuch <hi>burthens</hi> bring.</l>
+               <l>
+                  <pb n="4" facs="tcp:168876:4"/>
+                  <!-- PDF PAGE 16 -->
+Let this be all the uſe of naked Blades,</l>
+               <l>Of Drums, and Trumpets, and of arm'd Brigades:</l>
+               <l>Let's know no other Souldiery but this,</l>
+               <l>Whoſe brave <hi>Battalia's</hi> then brought in our <hi>Peace.</hi>
+               </l>
+               <l>Who will repine to give them now free <hi>Quarter,</hi>
+               </l>
+               <l>Whoſe Generals <hi>Belt</hi> is ſuppl'd to a <hi>Garter?</hi>
+               </l>
+               <l>How did they loſe their <hi>Name,</hi> while we deſcry'd</l>
+               <l>A <hi>Loyall Heart</hi> thorough an <hi>Iron ſide?</hi>
+               </l>
+               <l>They have <hi>unſpell'd</hi> that Proverbs mighty <hi>charms,</hi>
+               </l>
+               <l>Which ſtriketh dumb the <hi>Laws</hi> 'mongſt Martial Arms:</l>
+               <l>For when I heard the Guns give forth their ſence,</l>
+               <l>My <hi>Ears</hi> thought <hi>Cooks Reports</hi> proceeded thence;</l>
+               <l>Seeing their <hi>Buff,</hi> I fanci'd with my <hi>Eyes,</hi>
+               </l>
+               <l>Sure <hi>Magna Charta</hi> in that <hi>Vellum</hi> lies;</l>
+               <l>Their <hi>Swords</hi> appear'd as innocent and fair,</l>
+               <l>As that which was ſupported by the <hi>Mayor;</hi>
+               </l>
+               <l>And as they paſt the <hi>Goldſmiths</hi> company,</l>
+               <l>Both <hi>Metals</hi> chinkt a perfect <hi>Harmony.</hi>
+               </l>
+               <l>May they, who uſed <hi>Iron</hi> ſo juſtly, never</l>
+               <l>Want <hi>Gold</hi> to change an <hi>Helmet</hi> for a <hi>Beaver!</hi>
+               </l>
+               <l>In theſe we ſaw the <hi>Body</hi> politick</l>
+               <l>Reſtor'd to <hi>ſtrength,</hi> which had ſo long been <hi>ſick;</hi>
+               </l>
+               <l>With mighty <hi>Arms,</hi> and <hi>Iron</hi>-ſinews ſtrung:</l>
+               <l>But we have ſtay'd upon the <hi>ſtrength</hi> too long.</l>
+               <l>View we the <hi>Beauty</hi> now, which though my <hi>Ink</hi>
+               </l>
+               <l>Cannot reſemble; yet be pleas'd to think</l>
+               <l>How <hi>Venus Mole</hi> was nothing like her Face,</l>
+               <l>Yet by <hi>compariſon</hi> did lend a <hi>Grace:</hi>
+               </l>
+               <l>My <hi>Pen,</hi> may't lay but ſome <hi>black patches</hi> on</l>
+               <l>That <hi>Dayes</hi> fair <hi>Face,</hi> hath its Ambition.</l>
+               <l>Thus may my <hi>ſhady</hi> praiſes give't ſome <hi>light,</hi>
+               </l>
+               <l>Becauſe, <hi>compar'd,</hi> they are but <hi>black</hi> to <hi>white.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:168876:4"/>
+               <!-- PDF PAGE 16 -->
+               <l>
+                  <hi>Cornhill</hi> was <hi>Silver-Street,</hi> I will be bold</l>
+               <l>To call't the <hi>Milken-way, cream'd</hi> o're with <hi>Gold,</hi>
+               </l>
+               <l>[While braver mettal gliſter'd from among</l>
+               <l>The Engliſh faces, then that <hi>Indian</hi> Dung]</l>
+               <l>As much out-ſhining that, which <hi>Poets</hi> call</l>
+               <l>The<note n="a" place="margin">Ovid. Me<g ref="char:EOLhyphen"/>tamor. lib. <hi>1.</hi>
+                  </note> 
+                  <hi>Regent-walk</hi> to JUPITERS <hi>white-hall;</hi>
+               </l>
+               <l>As <hi>Starry Orders</hi> of the primeſt ſize</l>
+               <l>Out-vye the <hi>ſmall confuſed Sporades.</hi>
+               </l>
+               <l>They made their <hi>Progreſs</hi> here, who have the odds</l>
+               <l>In all perfections of the Pagan <hi>Gods;</hi>
+               </l>
+               <l>Who had they liv'd of old, had been known by</l>
+               <l>The Names of <hi>Neptune, Mars,</hi> and <hi>Mercury:</hi>
+               </l>
+               <l>When <hi>Iupiter</hi> did with his thundering call</l>
+               <l>Summon his <hi>Peerage</hi> to his judgement-hall</l>
+               <l>In old <hi>Deucalions</hi> days; Thoſe Gods had then</l>
+               <l>Leſs valour and leſs wiſdome, then theſe <hi>Men</hi>
+               </l>
+               <l>Nor did ennoble <hi>Via Lactea,</hi>
+               </l>
+               <l>Like <hi>London-ſtreets,</hi> through which theſe made their way</l>
+            </lg>
+            <lg>
+               <l>Their outward ſplendor's but a <hi>Foyle</hi> to this</l>
+               <l>Their <hi>Brighter</hi> fame: But yet, as He who is</l>
+               <l>The true <hi>Autocalon,</hi> and doth out-ſhine</l>
+               <l>The moſt contrived Glory of his <hi>Shrine;</hi>
+               </l>
+               <l>Was glorifi'd by the <hi>external</hi> gay</l>
+               <l>Of th' Salomonjah <hi>Temple:</hi> ſo we may</l>
+               <l>Not wrong the True worth of theſe <hi>Heroes,</hi>
+               </l>
+               <l>While we conſider their <hi>Appendices.</hi>
+               </l>
+               <l>Here Englands Youth we ſee renew'd again,</l>
+               <l>Blaſted by twenty years of war in vain.</l>
+               <l>The Fable made of <hi>Aeſon,</hi> here is true,</l>
+               <l>Who loſt his old blood to be fill'd with new.</l>
+               <l>As propagation of the Kind we call</l>
+               <l>A ſtep of <hi>Death</hi> to th' <hi>Individual:</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:168876:5"/>
+               <!-- PDF PAGE 17 -->
+               <l>Accordingly it ſeems a <hi>Nation</hi> doth,</l>
+               <l>While <hi>Single Perſons</hi> loſe it, gain her youth;</l>
+               <l>For who can find ſo <hi>beautiful</hi> a ſhow</l>
+               <l>In all the Chronicles of <hi>Speed</hi> and <hi>Stow?</hi>
+               </l>
+               <l>Which, could it be deſcribed to the life,</l>
+               <l>Will win to all <hi>paſt</hi> ſtories our belief;</l>
+               <l>And ſtrain the Faith of every <hi>future</hi> age,</l>
+               <l>Till the <hi>great</hi> year <hi>rebuilds</hi> the preſent Stage.</l>
+               <l>The Proverb ſaid that <hi>England,</hi> were it try'd</l>
+               <l>Could no where match that <hi>Garden</hi> in <hi>Cheap-ſide;</hi>
+               </l>
+               <l>Till the unfitneſs was by <hi>Tichbourn</hi> found,</l>
+               <l>Who ſet that <hi>Eden</hi> in more holy ground:</l>
+               <l>Let but the <hi>Proverb</hi> go for <hi>Prophecy,</hi>
+               </l>
+               <l>And who can give our <hi>Grandames</hi> teeth the lie?</l>
+               <l>The <hi>Flowers</hi> of Noble Gentry, which our eyes</l>
+               <l>There ſaw, did prove it Englands <hi>Paradice.</hi>
+               </l>
+               <l>That <hi>Winter,</hi> under which ſo long they lay,</l>
+               <l>Strength'ning their <hi>Roots</hi> for the enſuing <hi>May;</hi>
+               </l>
+               <l>
+                  <hi>Proud</hi> to be <hi>Garlands</hi> for what greater grace,</l>
+               <l>Our <hi>Tree</hi> of <hi>life,</hi> who in the <hi>Middle</hi> was;</l>
+               <l>Under whoſe <hi>Shadow</hi> long may England dwell,</l>
+               <l>Taſting the ſweet <hi>Fruits</hi> of his ruling well!</l>
+               <l>May he be a <hi>Forbidden fruit</hi> no more</l>
+               <l>By <hi>Flaming Swords,</hi> which kept the way before!</l>
+               <l>But let perennal happineſs flow thence</l>
+               <l>To his dominions <hi>circumference;</hi>
+               </l>
+               <l>As he that day the <hi>centre</hi> did appear,</l>
+               <l>
+                  <hi>Scattering</hi> his <hi>luſtre</hi> round the <hi>Theater:</hi>
+               </l>
+               <l>All the <hi>Stars</hi> of which orb muſt needs confeſs,</l>
+               <l>That this Sun lent them all their noble dreſs;</l>
+               <l>And that the <hi>Names</hi> and <hi>Titles,</hi> which they bear,</l>
+               <l>Begin with theſe two <hi>Capitals,</hi> C. R.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:168876:5"/>
+               <!-- PDF PAGE 17 -->
+               <l>That coſtly <hi>Wardrobe,</hi> which theſe perſons decks,</l>
+               <l>Is but th' <hi>unfolded</hi> Livery of <hi>Charls Rex;</hi>
+               </l>
+               <l>The <hi>naked</hi> letters ſignifie the ſame,</l>
+               <l>As when they're <hi>flouriſh'd</hi> with ſo long a train:</l>
+               <l>All thoſe <hi>contents</hi> are ſumm'd up in theſe two,</l>
+               <l>The <hi>Title-page</hi> and <hi>Index</hi> of the ſhew.</l>
+            </lg>
+            <lg>
+               <l>But ſince we are born <hi>children,</hi> ſlaves to <hi>ſence,</hi>
+               </l>
+               <l>And few in <hi>Reaſons</hi> Art do <hi>Men commence,</hi>
+               </l>
+               <l>Being not capable to <hi>know</hi> a <hi>King,</hi>
+               </l>
+               <l>But as he's <hi>pictur'd</hi> in ſome <hi>gawdy</hi> thing;</l>
+               <l>It's fit this uſeful <hi>Science</hi> go among</l>
+               <l>The <hi>vulgar,</hi> written in their <hi>Mother-tongue,</hi>
+               </l>
+               <l>Deſcrib'd in all the <hi>Nations Pomp,</hi> which is</l>
+               <l>No more then <hi>Charles</hi> in a <hi>Periphraſis.</hi>
+               </l>
+               <l>Theſe <hi>ceremonies</hi> are in <hi>State,</hi> though not</l>
+               <l>In <hi>Church,</hi> the beſt <hi>Books</hi> for the <hi>Ideot,</hi>
+               </l>
+               <l>Had the King ſhewn his worth in making <hi>Laws</hi>
+               </l>
+               <l>Beyond th' <hi>Idea</hi> of the antient <hi>Saws,</hi>
+               </l>
+               <l>That <hi>Plato's</hi> Common-wealth might ſeem to be</l>
+               <l>Of <hi>later</hi> date, <hi>tranſcrib'd</hi> from him we ſee;</l>
+               <l>Had he put forth his <hi>inward</hi> glory then,</l>
+               <l>Which <hi>Angels</hi> are more fit to view then <hi>Men;</hi>
+               </l>
+               <l>He ſhould have had but few <hi>ſpectators</hi> more,</l>
+               <l>Then the <hi>inviſible</hi> which <hi>Saints</hi> adore.</l>
+               <l>But when he <hi>condeſcends</hi> to take from <hi>Us</hi>
+               </l>
+               <l>Some <hi>Glory;</hi> we do <hi>flock</hi> to ſee him <hi>Thus:</hi>
+               </l>
+               <l>Like thoſe, who will not worſhip <hi>God,</hi> unleſs</l>
+               <l>He bear their <hi>Image,</hi> and be rendred <hi>leſs,</hi>
+               </l>
+               <l>In whom the <hi>Fountain</hi> of their honour lies,</l>
+               <l>By <hi>borrow'd</hi> luſtre from his <hi>votaries.</hi>
+               </l>
+               <l>So ſince that coſtly ſhew I heard it ſaid,</l>
+               <l>Theſe <hi>Lay-mens Books</hi> have many <hi>converts</hi> made;</l>
+               <l>
+                  <pb n="8" facs="tcp:168876:6"/>
+                  <!-- PDF PAGE 18 -->
+Who, ſince <hi>His ſpecies ſtampt</hi> it, do afford</l>
+               <l>The Faith they fear'd to give his <hi>current</hi> word.</l>
+            </lg>
+            <lg>
+               <l>See how all eyes delight on him to <hi>dwell,</hi>
+               </l>
+               <l>As <hi>Platoes Vertue</hi> now made <hi>viſible:</hi>
+               </l>
+               <l>One ſtrides a <hi>poſt,</hi> and makes a noted <hi>Sign;</hi>
+               </l>
+               <l>Yet they within the <hi>Tavern</hi> know no <hi>Wine:</hi>
+               </l>
+               <l>Anothers <hi>Eyes</hi> hard by his <hi>Miſtreſs</hi> were;</l>
+               <l>Yet loſe their <hi>object,</hi> and <hi>forget</hi> ſhe's there:</l>
+               <l>A thirds can ſee Him ſcarce, they are ſo <hi>dim</hi>
+               </l>
+               <l>With want of <hi>ſleep,</hi> yet <hi>watch</hi> all day for <hi>Him:</hi>
+               </l>
+               <l>One Souldier, being hoarſe with many a <hi>ſhout,</hi>
+               </l>
+               <l>Would chuſe to <hi>whiſtle</hi> rather then ſtand out:</l>
+               <l>Our <hi>Acclamations</hi> rend the <hi>Heavens,</hi> to woe</l>
+               <l>The <hi>Angels</hi> Harmony with us below:</l>
+               <l>Though <hi>Ringers</hi> ſtirr'd them not, the <hi>Churches</hi> Bells</l>
+               <l>And Stones would cry out, <hi>Here</hi> our <hi>ſafety</hi> dwells.</l>
+               <l>And vvhen this <hi>Day</hi> was gone, vve ſavv no <hi>Night;</hi>
+               </l>
+               <l>The frequent <hi>Bone-fires</hi> vvere <hi>Meridian</hi> light:</l>
+               <l>And its no marvell, vvhen vve vvere our ovvn</l>
+               <l>
+                  <hi>Antipodes,</hi> and this our <hi>Sun</hi> vvent <hi>down</hi>
+               </l>
+               <l>Amongſt us; Hence thoſe <hi>fiery pillers</hi> riſe,</l>
+               <l>
+                  <hi>Londons black</hi> Night-Robes turn'd to <hi>ſcarlet</hi> Skies.</l>
+               <l>The <hi>Countrey</hi> ſaw the <hi>brightneſſe,</hi> and had <hi>run</hi>
+               </l>
+               <l>To <hi>quench</hi> the Tovvnes, but that the cauſe vvas <hi>known:</hi>
+               </l>
+               <l>Who can think <hi>darkneſſe</hi> in that <hi>night</hi> can <hi>dwell,</hi>
+               </l>
+               <l>Where the <hi>light lodgeth</hi> of our <hi>Iſrael?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Aſpect</hi> of our <hi>Heaven</hi> had been compleat,</l>
+               <l>But that our <hi>Sun</hi> without a <hi>Moon</hi> did <hi>ſet.</hi>
+               </l>
+               <l>For in this <hi>ſingle Scheam</hi> vve could not vievv</l>
+               <l>Our <hi>preſent fortune,</hi> and our <hi>future</hi> too:</l>
+               <l>Though <hi>Charles</hi> vvere <hi>proof</hi> againſt his <hi>other</hi> foes,</l>
+               <l>Our ſins vvill kill Him, <hi>when,</hi> God only knovvs:</l>
+               <l>
+                  <pb n="9" facs="tcp:168876:6"/>
+                  <!-- PDF PAGE 18 -->
+Heaven ſend's a <hi>Queen,</hi> that may bring forth his <hi>Mind,</hi>
+               </l>
+               <l>And <hi>Travail</hi> with the <hi>Vertues</hi> of the <hi>Kind;</hi>
+               </l>
+               <l>A <hi>Prince</hi> ſo like him, that <hi>at length</hi> we might</l>
+               <l>Behold the <hi>Royall Picture</hi> drawn <hi>aright.</hi>
+               </l>
+               <l>Till then the <hi>Painter,</hi> and the <hi>Poet</hi> too,</l>
+               <l>
+                  <hi>Blaſpheme</hi> him, and their <hi>colours</hi> Treaſon <hi>brew;</hi>
+               </l>
+               <l>His <hi>Pencill,</hi> and my <hi>Pen,</hi> deſerve to feel</l>
+               <l>The Fate, which t'other day befell the <hi>Seal:</hi>
+               </l>
+               <l>The <hi>Prince</hi> of <hi>Wales</hi> is onely fit to be</l>
+               <l>The <hi>King</hi> of <hi>Englands pourtraicture.</hi> Thus we</l>
+               <l>Shall have no <hi>new</hi> King, when the <hi>preſent's</hi> dead,</l>
+               <l>But <hi>Charles</hi> himſelf ſhall to <hi>himſelf</hi> ſucceed.</l>
+            </lg>
+            <lg>
+               <l>But this defect as yet is well ſuppli'd</l>
+               <l>By the two <hi>Dukes,</hi> which rode on either <hi>ſide;</hi>
+               </l>
+               <l>Like two <hi>Supporters</hi> of that <hi>Family,</hi>
+               </l>
+               <l>In whoſe <hi>extinction</hi> all the <hi>reſt</hi> muſt <hi>Dye.</hi>
+               </l>
+               <l>Whole <hi>Lands</hi> pay <hi>Tribute</hi> unto <hi>Iames,</hi> whole <hi>Seas</hi>
+               </l>
+               <l>Render him the juſt <hi>cuſtome</hi> of his <hi>praiſe.</hi>
+               </l>
+               <l>
+                  <hi>Henry</hi> was <hi>born</hi> both <hi>Mars</hi> and <hi>Mercury,</hi>
+               </l>
+               <l>
+                  <hi>Valiant</hi> and <hi>Politick ex Traduce:</hi>
+               </l>
+               <l>When <hi>Charles the Firſt</hi> was forc'd to mind the <hi>Art</hi>
+               </l>
+               <l>Of <hi>warre,</hi> but ſtudy'd <hi>Peace</hi> more in his <hi>Heart;</hi>
+               </l>
+               <l>When the <hi>Queen</hi> welcom'd home an <hi>armed King,</hi>
+               </l>
+               <l>As <hi>Semele</hi> did <hi>Iove</hi> in <hi>lightening.</hi>
+               </l>
+               <l>God grant we never come to <hi>need</hi> their Merit!</l>
+               <l>Who ſay <hi>Amen,</hi> not wiſhing to <hi>inherit.</hi>
+               </l>
+               <l>Let this <hi>Payre-Royall</hi> [I may call them ſo,</l>
+               <l>Whom Kingdomes <hi>want</hi> more, then They Kingdomes do]</l>
+               <l>Let this Payre-Royall live in <hi>bliſſe</hi> and <hi>love,</hi>
+               </l>
+               <l>Like thoſe I pray to, <hi>Three</hi> and <hi>One</hi> above.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
